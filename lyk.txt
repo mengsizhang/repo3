@@ -4,3 +4,7 @@ zms love lyk
 aaaa
 bbbb
 ccccc
+1999.10.18
+1998.01.13
+add some content to lyk.txt
+
